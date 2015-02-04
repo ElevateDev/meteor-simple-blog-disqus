@@ -1,4 +1,4 @@
-Blog.showAfterBody.push( Template.simpleBlogDisqus );
+Blog.showAfterBody.push( "simpleBlogDisqus" );
 
 Template.simpleBlogDisqus.rendered = function(){
   if( !Blog.disqusShortname ){
@@ -23,4 +23,4 @@ Template.simpleBlogDisqus.rendered = function(){
       }
     });
   }
-}
+};

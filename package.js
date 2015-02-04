@@ -9,7 +9,7 @@ Package.onUse(function(api) {
   api.versionsFrom('METEOR@1.0');
   
   api.use([
-    'elevatedevdesign:simple-blog@0.0.7',
+    'elevatedevdesign:simple-blog@0.0.8',
     'templating'
   ]);
  
