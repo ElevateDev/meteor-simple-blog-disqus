@@ -1,7 +1,7 @@
 Package.describe({
   name: 'elevatedevdesign:simple-blog-disqus',
   summary: 'Package to add disqus to simple-blog',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/ElevateDevelopmentAndDesign/meteor-simple-blog-disqus'
 });
 
